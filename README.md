@@ -32,9 +32,10 @@ An AI-powered qualitative and mixed-methods research dashboard engineered for wo
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Production Build
+## Production Build & Deployment
 
 ```bash
 npm run build
 npm start
 ```
+This repository is configured for zero-config deployment on [Vercel](https://vercel.com).
